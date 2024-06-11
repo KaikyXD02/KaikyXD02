@@ -6,4 +6,4 @@ Meu nome é Kaiky Sousa
 - Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-![](https://media1.tenor.com/m/r-PR4hx_F7QAAAAd/hollow-knight-breakdance.gif)
+![](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)
