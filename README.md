@@ -1,4 +1,4 @@
-![image](https://github.com/KaikyXD02/KaikyXD02/assets/171882322/9d921a11-0df8-4ce9-ab0c-2cd7b55a5c9f)### Bem-vindo(a) ao meu perfil
+### Bem-vindo(a) ao meu perfil
 
 Meu nome é Kaiky Sousa
 
@@ -6,4 +6,4 @@ Meu nome é Kaiky Sousa
 - Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-![](https://media1.tenor.com/m/r-PR4hx_F7QAAAAd/hollow-knight-breakdance.gif)
+![image](https://github.com/KaikyXD02/KaikyXD02/assets/171882322/9d921a11-0df8-4ce9-ab0c-2cd7b55a5c9f)
